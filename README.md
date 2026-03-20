@@ -1,0 +1,62 @@
+# ONE OK ROCK – Decision
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:32.70] Another day, another life
+[00:35.64] I wanna live it to the fullest
+[00:38.61] A little work, a lotta play
+[00:41.19] Alright
+[00:44.69] 
+[00:44.15] No time to give
+[00:45.42] No time to take away
+[00:50.12] So here we go again with my mistakes
+[00:56.24] We'll never be as young as we are now
+[01:14.74] 
+[01:03.58] You say it's alright
+[01:06.54] You say it's OK
+[01:08.68] It's up to you, is that the truth? Tell me
+[01:11.54] I'm feeling used, will no one save me?
+[01:30.54] 
+[01:15.64] You say it's alright
+[01:18.69] Does that make it OK?
+[01:21.59] What's best for you is less for me
+[01:24.65] It's my decision
+[01:32.65] 
+[01:38.64] I wanna be all that I can be
+[01:40.61] I want to see the light and to live for me
+[01:43.63] So I, I'm gonna seize the day
+[01:46.86] Please don't forget my name, oh
+[01:50.35] We'll never be as young as we are now
+[02:08.85] 
+[01:57.55] You say it's alright
+[02:00.40] You say it's OK
+[02:02.66] It's up to you, is that the truth? Tell me
+[02:05.70] I'm feeling used, will no one save me?
+[02:24.70] 
+[02:09.70] You say it's alright
+[02:12.66] Does that make it OK?
+[02:15.68] What's best for you is less for me
+[02:18.57] It's my decision
+[02:26.57] 
+[02:32.32] Never, never, never, never again
+[02:38.13] It's my life, my life, my life, my life to live
+[02:44.67] Da da da da, da da da da da da
+[02:59.67] 
+[02:48.66] You say it's alright
+[02:51.44] You say it's OK
+[02:53.56] It's up to you, is that the truth? Tell me
+[02:56.51] I'm feeling used, will no one save me?
+[03:15.51] 
+[03:00.66] They say it's alright
+[03:03.68] Does that make it OK?
+[03:06.56] What's best for them, not listening
+[03:09.45] It's my decision
+[03:17.45] 
+[03:12.63] You say it's alright
+[03:15.54] You say it's OK
+[03:17.70] It's up to you, is that the truth? Tell me
+[03:20.68] I'm feeling used, will no one save me?
+[03:39.68] 
+[03:28.74] No one save me
+```
