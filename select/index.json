@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Decision",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2026-03-20T03:48:08.670869Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Decision Tower",
+      "artist": "Mike",
+      "has_synced": false,
+      "path": "select/01_Decision_Tower_Mike.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Split Decision",
+      "artist": "Rx Papi feat. Gud",
+      "has_synced": false,
+      "path": "select/02_Split_Decision_Rx_Papi_feat._Gud.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Split Decision",
+      "artist": "Rx Papi & Gud",
+      "has_synced": false,
+      "path": "select/03_Split_Decision_Rx_Papi_&_Gud.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Big Decision",
+      "artist": "Elliott Smith",
+      "has_synced": false,
+      "path": "select/04_Big_Decision_Elliott_Smith.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "SPLIT DECISION",
+      "artist": "PARTYNEXTDOOR",
+      "has_synced": true,
+      "path": "select/05_SPLIT_DECISION_PARTYNEXTDOOR.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Tonight's Decision (And Hereafter)",
+      "artist": "Palace Music",
+      "has_synced": false,
+      "path": "select/06_Tonight's_Decision_(And_Hereafter)_Palace_Music.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Decision Tree (We're Alive)",
+      "artist": "Ayreon",
+      "has_synced": true,
+      "path": "select/07_The_Decision_Tree_(We're_Alive)_Ayreon.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Decision Day",
+      "artist": "Sodom",
+      "has_synced": true,
+      "path": "select/08_Decision_Day_Sodom.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Decision Or Collision",
+      "artist": "ZZ Top",
+      "has_synced": true,
+      "path": "select/09_Decision_Or_Collision_ZZ_Top.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Your Decision",
+      "artist": "Alice In Chains",
+      "has_synced": true,
+      "path": "select/10_Your_Decision_Alice_In_Chains.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Your Decision (Live)",
+      "artist": "Alice In Chains",
+      "has_synced": true,
+      "path": "select/11_Your_Decision_(Live)_Alice_In_Chains.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Decision (feat. Tyler Carter)",
+      "artist": "ONE OK ROCK feat. Tyler Carter",
+      "has_synced": true,
+      "path": "select/12_Decision_(feat._Tyler_Carter)_ONE_OK_ROCK_feat._Tyler_Carter.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Decision (feat. Tyler Carter)",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/13_Decision_(feat._Tyler_Carter)_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Mi Decisión - Remix",
+      "artist": "Jhonny Rivera feat. Sebastián Ayala & Andy Rivera",
+      "has_synced": true,
+      "path": "select/14_Mi_Decisión_-_Remix_Jhonny_Rivera_feat._Sebastián_Ayala_&_Andy_Rivera.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Bad Decision",
+      "artist": "Chromeo",
+      "has_synced": true,
+      "path": "select/15_Bad_Decision_Chromeo.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Decision",
+      "artist": "Busta Rhymes feat. Jamie Foxx, Mary J. Blige, John Legend & Common",
+      "has_synced": true,
+      "path": "select/16_Decision_Busta_Rhymes_feat._Jamie_Foxx,_Mary_J._Blige,_John_Legend_&_Common.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Decision (feat. Jamie Foxx, Mary J. Blidge, John Legend & Common)",
+      "artist": "Busta Rhymes",
+      "has_synced": true,
+      "path": "select/17_Decision_(feat._Jamie_Foxx,_Mary_J._Blidge,_John_Legend_&_Common)_Busta_Rhymes.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Decision",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_Decision_ONE_OK_ROCK.txt"
+    }
+  ]
+}
